@@ -36,5 +36,4 @@ class Startup
         FundingRound.new(self, vc, type, investment)
     end
 
-
 end
